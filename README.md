@@ -1,2 +1,2 @@
-# Telegram-Bot-with-Python
-This Telegram bot was programmed in Python. The Bot can perform several task according to your commands.
+# Telegram Bot with Python
+* This chatbot was programmed in Python with using Telegram API. The Bot can perform several task according to your commands.
